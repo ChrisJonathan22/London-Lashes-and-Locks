@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/London-Lashes-and-Locks.iml" filepath="$PROJECT_DIR$/.idea/modules/London-Lashes-and-Locks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/London-Lashes-and-Locks_main.iml" filepath="$PROJECT_DIR$/.idea/modules/London-Lashes-and-Locks_main.iml" group="London-Lashes-and-Locks" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/London-Lashes-and-Locks_test.iml" filepath="$PROJECT_DIR$/.idea/modules/London-Lashes-and-Locks_test.iml" group="London-Lashes-and-Locks" />
+    </modules>
+  </component>
+</project>
